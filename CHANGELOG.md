@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-15)
+
+<section class="features">
+
+### Features
+
+-   [`fbbdff6`](https://github.com/stdlib-js/stdlib/commit/fbbdff6ed331a65f7baab74249d29b60ec01b101) - add implementation of `stats/base/dists/arcsine/pdf` [(#3455)](https://github.com/stdlib-js/stdlib/pull/3455)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3402](https://github.com/stdlib-js/stdlib/issues/3402)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`fbbdff6`](https://github.com/stdlib-js/stdlib/commit/fbbdff6ed331a65f7baab74249d29b60ec01b101) - **feat:** add implementation of `stats/base/dists/arcsine/pdf` [(#3455)](https://github.com/stdlib-js/stdlib/pull/3455) _(by Vinit Pandit)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Vinit Pandit
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
