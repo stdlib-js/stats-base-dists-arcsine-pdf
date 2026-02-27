@@ -164,6 +164,8 @@ logEachMap( 'x: %0.4f, a: %0.4f, b: %0.4f, f(x;a,b): %0.4f', x, a, b, pdf );
 
 </section>
 
+<!-- /.examples -->
+
 <!-- C interface documentation. -->
 
 * * *
@@ -317,8 +319,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/stats-base-dists-arcsine-pdf.svg
 [npm-url]: https://npmjs.org/package/@stdlib/stats-base-dists-arcsine-pdf
 
-[test-image]: https://github.com/stdlib-js/stats-base-dists-arcsine-pdf/actions/workflows/test.yml/badge.svg?branch=v0.3.1
-[test-url]: https://github.com/stdlib-js/stats-base-dists-arcsine-pdf/actions/workflows/test.yml?query=branch:v0.3.1
+[test-image]: https://github.com/stdlib-js/stats-base-dists-arcsine-pdf/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/stats-base-dists-arcsine-pdf/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-base-dists-arcsine-pdf/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-base-dists-arcsine-pdf?branch=main
